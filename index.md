@@ -1,6 +1,6 @@
-# Hi
+# Eduardo Sasso
 
-I'm Eduardo Sasso, a Brazilian expat working in tech in Silicon Valley.
+Hi, I'm a Brazilian expat working in tech in Silicon Valley.
 
 I'm currently based in Santa Cruz, CA, enjoying family life with my wife and daughter.
 

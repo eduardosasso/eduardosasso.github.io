@@ -1,4 +1,18 @@
 ---
-:theme: banana
-:date_format: "%b-%d-%Y"
+:theme:
+  name: bungee
+  background_color: "#FFFFFF"
+  text_font: "'Crimson Text', serif"
+  text_color: "#231900"
+  heading_font:  "'Open Sans', sans-serif"
+  heading_color: "#231900"
+  accent_color: "#FFCC00"
+  font_url: "https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans:700&display=swap"
+
+:date_format: "%b. %d, %Y"
 :google_analytics: 
+
+css_file_path: /Users/eduardosasso/dropbox/leter/lib/leter/leter.css
+
+code:
+  theme: a11y-light
