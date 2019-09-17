@@ -21,7 +21,7 @@
   # font_url: "https://fonts.googleapis.com/css?family=Roboto:400,700|Lora&display=swap"
 
 :date_format: "%b. %d, %Y"
-:google_analytics: 
+:google_analytics: UA-148146327-1
 
 css_url: /leter.css
 
