@@ -1,18 +1,29 @@
 ---
-:theme:
-  name: bungee
-  background_color: "#FFFFFF"
-  text_font: "'Crimson Text', serif"
-  text_color: "#231900"
-  heading_font:  "'Open Sans', sans-serif"
-  heading_color: "#231900"
-  accent_color: "#FFCC00"
-  font_url: "https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans:700&display=swap"
+:theme: classic
+  # link_color: "#0074D9"
+
+  # name: purple
+  # page_align: center
+  # color:
+  #   background:
+  #   heading:
+  #   accent:
+  # font:
+  #   heading:
+  #   text:
+  #   url: 
+  # background_color: "#363636"
+  # text_font: "'Roboto', sans-serif"
+  # text_color: "#f3f3f3"
+  # heading_font:  "'Lora', serif"
+  # heading_color: "#ffcd38"
+  # accent_color: "#ffdd67"
+  # font_url: "https://fonts.googleapis.com/css?family=Roboto:400,700|Lora&display=swap"
 
 :date_format: "%b. %d, %Y"
 :google_analytics: 
 
-css_file_path: /Users/eduardosasso/dropbox/leter/lib/leter/leter.css
+css_url: /leter.css
 
-code:
-  theme: a11y-light
+# code:
+#   theme: a11y-light
