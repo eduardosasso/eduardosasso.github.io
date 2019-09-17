@@ -14,6 +14,6 @@ Surfing is a big part of my life. The ocean is where I like to be and riding wav
 
 I'm a morning person, coffee drinker and banana eater; a pragmatic minimalist and a student of [Stoicism](https://en.wikipedia.org/wiki/Stoicism).
 
-Sometimes I post on [Twitter](https://twitter.com/eduardosasso) and [Instagram](https://www.instagram.com/eduardosasso/) and I occasionally write on [Medium](https://medium.com/@eduardosasso).
+Sometimes I post on [Twitter](https://twitter.com/eduardosasso) and [Instagram](https://www.instagram.com/eduardosasso/) and I occasionally write on my [Blog](/blog).
 
 Bye!
