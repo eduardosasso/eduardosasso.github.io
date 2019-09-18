@@ -25,5 +25,21 @@
 
 css_url: /leter.css
 
+custom:
+  index:
+    theme: 
+      name: bungee
+      page_align: left
+  drafts:
+    leter:
+      code-highlighting:
+        theme: chalk
+        code:
+          theme: atom-one-light
+  blog:
+    life-is-fragile:
+      theme: crest
+      :date_format: "%^b %d · %Y"
+
 # code:
 #   theme: a11y-light
