@@ -61,6 +61,12 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+  .retroshadow {
+    color: #F6BB42;
+    background-color: #f7f7f7;
+    text-shadow: 4px 4px 0px #2E383F      
+  }
+
 h2, h3, h4, h5, h6 {
   font-family: var(--text_font);
   /* color: var(--accent_color); */

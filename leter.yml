@@ -1,7 +1,28 @@
 ---
-:theme: classic
+# :theme: banana
   # link_color: "#0074D9"
 
+theme:
+  name: bungee
+  background_color: "#232323"
+  # text_font: "'Open Sans', sans-serif"
+  # text_color: "#ffffff"
+  # heading_font: "'Corben', cursive"
+  # heading_color: "#ffffff"
+  heading_color: "#e2fd36"
+  accent_color: "#e2fd36"
+  link_color: "#e2fd36"
+  page_align: left
+
+  # background_color: "#f7f7f7"
+  # text_font: "'Roboto Mono', monospace"
+  # text_color: "#2E383F"
+  # heading_font: "'Paytone One', sans-serif"
+  # heading_color: "#2E383F"
+  # # heading_color: "#F6BB42"
+  # accent_color: "#F6BB42"
+  # font_url: "https://fonts.googleapis.com/css?family=Amaranth|Archivo+Black|Black+Han+Sans|Candal|Paytone+One|Roboto|Russo+One|Secular+One|Varela+Round|Roboto+Mono&display=swap"
+  # page_align: left
   # name: purple
   # page_align: center
   # color:
@@ -20,16 +41,16 @@
   # accent_color: "#ffdd67"
   # font_url: "https://fonts.googleapis.com/css?family=Roboto:400,700|Lora&display=swap"
 
-:date_format: "%b. %d, %Y"
+# :date_format: "%b. %d, %Y"
 :google_analytics: UA-148146327-1
 
 css_url: /leter.css
 
 custom:
-  index:
-    theme: 
-      name: bungee
-      page_align: left
+  # index:
+  #   theme: 
+  #     name: neon
+  #     text_color: "#f7f7f7"
   drafts:
     leter:
       code-highlighting:

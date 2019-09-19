@@ -1,8 +1,8 @@
-# Eduardo Sasso
+# Hi,
 
-Hi, I'm a Brazilian expat working in tech in Silicon Valley.
+I’m [Eduardo Sasso](/) a Brazilian expat turned American working in tech in Silicon Valley.
 
-I'm currently based in Santa Cruz, CA, enjoying family life with my wife and daughter.
+I'm based in [Santa Cruz](/), CA, enjoying family life with my wife and daughter.
 
 In 2011, I moved to the U.S. to join Trip.com (formerly Gogobot), which was [acquired](https://techcrunch.com/2017/11/01/ctrip-group-snaps-up-travel-search-startup-trip-com/) by [Skyscanner](https://www.skyscanner.net/) in 2017.
 
@@ -16,4 +16,5 @@ I'm a morning person, coffee drinker and banana eater; a pragmatic minimalist an
 
 Sometimes I post on [Twitter](https://twitter.com/eduardosasso) and [Instagram](https://www.instagram.com/eduardosasso/) and I occasionally write on my [Blog](/blog).
 
-Bye!
+Cheers ―
+
