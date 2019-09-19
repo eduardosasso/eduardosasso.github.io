@@ -2,19 +2,21 @@
 
 I’m [Eduardo Sasso](/) a Brazilian expat turned American working in tech in Silicon Valley.
 
-I'm based in [Santa Cruz](https://en.wikipedia.org/wiki/Santa_Cruz,_California), CA, enjoying family life with my wife and daughter.
+I'm based in [Santa Cruz](https://en.wikipedia.org/wiki/Santa_Cruz,_California), CA, living a quiet family life with my wife and daughter.
 
 In 2011, I moved to the U.S. to join Trip.com (formerly Gogobot), which was [acquired](https://techcrunch.com/2017/11/01/ctrip-group-snaps-up-travel-search-startup-trip-com/) by [Skyscanner](https://www.skyscanner.net/) in 2017.
 
-As a software engineer, I'm agnostic to language and tools but I've got a soft spot for [Ruby](https://www.ruby-lang.org/en/).
+I'm into building things, mostly software products and lately I've been dabbling into woodworking just for fun.
 
-Surfing is a big part of my life. The ocean is where I like to be and riding waves is my form of meditation.
+As an engineer, I'm a generalist and agnostic to language and tools, but I enjoy writing [Ruby](https://www.ruby-lang.org/en/) code quite a bit.
+
+The ocean is where I find balance and tranquility, and surfing has been a big part of it for most of my life. 
 
 [Rocky](https://www.imdb.com/title/tt0075148/) is my favorite movie. I really relate to the underdog story and the never-give-up attitude.
 
 I'm a morning person, coffee drinker and banana eater; a pragmatic minimalist and a student of [Stoicism](https://en.wikipedia.org/wiki/Stoicism).
 
-Sometimes I post on [Twitter](https://twitter.com/eduardosasso) and [Instagram](https://www.instagram.com/eduardosasso/) and I occasionally write on my [Blog](/blog).
+Every so often, I publish on my [Blog](/blog) but most likely commit on [Github](https://github.com/eduardosasso), and sometimes post on [Twitter](https://twitter.com/eduardosasso) and [Instagram](https://www.instagram.com/eduardosasso/).
 
-Cheers ―
+Cheers 〜
 
