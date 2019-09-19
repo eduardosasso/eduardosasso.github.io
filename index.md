@@ -2,7 +2,7 @@
 
 I’m [Eduardo Sasso](/) a Brazilian expat turned American working in tech in Silicon Valley.
 
-I'm based in [Santa Cruz](https://en.wikipedia.org/wiki/Santa_Cruz,_California), CA, living a quiet family life with my wife, daughter and our dog Maui.
+I'm based in [Santa Cruz](https://en.wikipedia.org/wiki/Santa_Cruz,_California), California, living a quiet family life with my wife, daughter and our dog Maui.
 
 In 2011, I moved to the U.S. to join Trip.com (formerly Gogobot), which was [acquired](https://techcrunch.com/2017/11/01/ctrip-group-snaps-up-travel-search-startup-trip-com/) by [Skyscanner](https://www.skyscanner.net/) in 2017.
 
