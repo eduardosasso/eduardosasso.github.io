@@ -61,11 +61,12 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-  .retroshadow {
-    color: #F6BB42;
-    background-color: #f7f7f7;
-    text-shadow: 4px 4px 0px #2E383F      
-  }
+/* TODO support for heading effects */
+.retroshadow {
+  color: #F6BB42;
+  background-color: #f7f7f7;
+  text-shadow: 4px 4px 0px #2E383F      
+}
 
 h2, h3, h4, h5, h6 {
   font-family: var(--text_font);
@@ -181,8 +182,8 @@ h2 {
 a {
   text-decoration: none;
   border-bottom: 2px solid;
-  /* color: var(--text_color); */
-  color: var(--link_color);
+  color: var(--text_color);
+  /* color: var(--link_color); */
   border-bottom-color: var(--link_color);
   /* border-bottom-color: var(--accent_color); */
   /* border-bottom-color: var(--heading-color); */
@@ -192,10 +193,11 @@ a {
 
 a:hover {
   /* border-bottom: none; */
-  color: var(--text_color);
+  /* color: var(--text_color); */
+  color: var(--link_color);
   /* -webkit-text-stroke: 0.8px var(--text_color); */
   /* -webkit-text-stroke: 0.8px var(--heading_color); */
-  border-bottom-color: var(--text_color);
+  /* border-bottom-color: var(--text_color); */
 }
 
 section {
