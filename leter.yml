@@ -41,7 +41,7 @@ theme:
   # accent_color: "#ffdd67"
   # font_url: "https://fonts.googleapis.com/css?family=Roboto:400,700|Lora&display=swap"
 
-# :date_format: "%b. %d, %Y"
+:date_format: "%b. %d, %Y"
 :google_analytics: UA-148146327-1
 
 css_url: /leter.css
@@ -49,6 +49,7 @@ css_url: /leter.css
 custom:
   # index:
   #   theme: 
+  #     page_align: left
   #     name: neon
   #     text_color: "#f7f7f7"
   drafts:
