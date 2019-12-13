@@ -232,7 +232,7 @@ a:hover {
 
 section {
   max-width: 700px;
-  margin: var(--page_align);
+  /* margin: var(--page_align); */
   /* margin-left: calc(-50vw + 50%); */
   /* margin-right: calc(-50vw + 50%); */
 }
@@ -334,8 +334,9 @@ ul.slider {
 }
 @media screen and (min-width: 768px) {
   section {
-    margin: 0px 0px 50px 50px;
+    margin: var(--page_align);
 
+    /* margin: 0px 0px 50px 50px; */
   }
 
   figure img {
