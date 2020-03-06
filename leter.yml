@@ -1,3 +1,16 @@
+# banana - An Yellow based theme
+# chalk
+# love
+# default
+# neon
+# purple
+# bungee
+# crest
+# expo
+# classic - Dark font on white background
+# bigsur
+# libre
+# dark
 theme:
   name: bungee
   background_color: "#232323"
@@ -10,37 +23,27 @@ theme:
   link_color: "#e2fd36"
   page_align: left
 
-  # background_color: "#f7f7f7"
-  # text_font: "'Roboto Mono', monospace"
-  # text_color: "#2E383F"
-  # heading_font: "'Paytone One', sans-serif"
-  # heading_color: "#2E383F"
-  # # heading_color: "#F6BB42"
-  # accent_color: "#F6BB42"
-  # font_url: "https://fonts.googleapis.com/css?family=Amaranth|Archivo+Black|Black+Han+Sans|Candal|Paytone+One|Roboto|Russo+One|Secular+One|Varela+Round|Roboto+Mono&display=swap"
-  # page_align: left
-  # name: purple
-  # page_align: center
-  # color:
-  #   background:
-  #   heading:
-  #   accent:
-  # font:
-  #   heading:
-  #   text:
-  #   url: 
-  # background_color: "#363636"
-  # text_font: "'Roboto', sans-serif"
-  # text_color: "#f3f3f3"
-  # heading_font:  "'Lora', serif"
-  # heading_color: "#ffcd38"
-  # accent_color: "#ffdd67"
-  # font_url: "https://fonts.googleapis.com/css?family=Roboto:400,700|Lora&display=swap"
+# options
+# %Y - year with century (2020)
+# %y - year last two digits (20)
+# %m - month of the year, zero-padded (01..12)
+# %B - the full month name  (January)
+#   %^B - uppercased (JANUARY)
+# %b - the abbreviated month name (Jan)
+#   %^b - uppercased (JAN)
+# %d - day of the month, zero-padded (01..31)
+# %-d - no-padded (1..31)
+# %A - The full weekday name (Sunday)
+#   %^A - uppercased (SUNDAY)
+# %a - The abbreviated name (Sun)
+#   %^a - uppercased (SUN)
+date_format: "%b. %d, %Y"
 
-:date_format: "%b. %d, %Y"
-:google_analytics: UA-148146327-1
+# UA-XXXXX-X with your web property ID
+google_analytics: "UA-148146327-1"
 
 css_url: /leter.css
+
 
 custom:
   index:
@@ -50,6 +53,16 @@ custom:
   #     page_align: left
   #     name: neon
   #     text_color: "#f7f7f7"
+  resume:
+    title: Eduardo Sasso's resume
+    theme:
+      name: purple
+      background_color: "#eeeeee"
+      text_color: "#393e46"
+      heading_color: "#393e46"
+      accent_color: "#00adb5"
+      link_color: "#00adb5"
+    date_format:
   drafts:
     surfing:
       theme: classic
@@ -65,6 +78,3 @@ custom:
     consistency:
       theme: classic
 
-
-# code:
-#   theme: a11y-light
