@@ -217,7 +217,7 @@ a {
   border-bottom-color: var(--link_color);
   /* border-bottom-color: var(--accent_color); */
   /* border-bottom-color: var(--heading-color); */
-  display: inline-block;
+  /* display: inline-block; */
   line-height: 1.2em;
 }
 

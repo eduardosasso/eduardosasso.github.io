@@ -44,7 +44,7 @@ First fully automated movie aggregation website and iOS app in Brazil combining 
 - **Technologies**: Apache SOLR, Memcache, Ruby/Rails, Javascript, NGINX, MySQL, Docker, HTML, Linux, Redis, Node, Java, CSS, SQL, PHP  
 - **Education**: B.S. in Computer Science Ulbra Brazil 2002, Sun Certified Java Developer 2004
 - **Hobbies**: Woodworking, Running, Surfing
-- **Contact**: [eduardo.sasso@gmail.com](mailto:eduardo.sasso@gmail.com), https://eduardosasso.co
+- **Comms**: [eduardo.sasso@gmail.com](mailto:eduardo.sasso@gmail.com), https://eduardosasso.co
 - **Elsewhere**: [Github](https://github.com/eduardosasso), [LinkedIn](https://www.linkedin.com/in/eduardo-sasso/), [Twitter](https://twitter.com/eduardosasso)
 - **Other formats**: [Google docs](https://docs.google.com/document/d/1b4RCs-mripZO_OSXwmnzn6C8iyozojUdgTD9DwJNPIQ/edit?usp=sharing), [PDF](https://eduardosasso.co/eduardo_sasso_resume.pdf)
 
