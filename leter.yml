@@ -77,4 +77,15 @@ custom:
       :date_format: "%^b %d · %Y"
     consistency:
       theme: classic
+    turning-my-obsession-with-the-stock-market-into-a-side-project:
+      theme: 
+        name: classic      
+        background_color: '#f6eedf'
+        text_color: "#232020"
+        heading_color: "#232020"
+        link_color: "#ff7315"
+        heading_font: "'Playfair Display', serif"
+        text_font: "'Playfair Display', serif"
+        text_size: "22px"
+      date_format:
 
