@@ -14,14 +14,14 @@ html {
  * A better looking default horizontal rule
  */
 
-hr {
-  display: block;
-  height: 1px;
-  border: 0;
-  border-top: 1px solid var(--accent_color);
-  margin: 1em 0;
-  padding: 0;
-}
+/* hr { */
+/*   display: block; */
+/*   height: 1px; */
+/*   border: 0; */
+/*   border-top: 1px solid var(--accent_color); */
+/*   margin: 1em 0; */
+/*   padding: 0; */
+/* } */
 
 /*
  * Remove the gap between audio, canvas, iframes,
@@ -127,22 +127,22 @@ h1 {
   text-align:center
 }
 
-hr {
-  /* border: 0; */
-  /* border-top: 1px solid; */
-  text-align:center;
-} 
+/* hr { */
+/*   /1* border: 0; *1/ */
+/*   /1* border-top: 1px solid; *1/ */
+/*   text-align:center; */
+/* } */ 
 
-hr:after {
-  /* content: '⬥ ⬥ ⬥'; */
-  display: inline-block;
-  position: relative;
-  top: -13px;
-  padding: 0 3px;
-  /* background: #fff; */
-  /* color: #8c8c8c; */
-  font-size: 30px;
-}
+/* hr:after { */
+/*   /1* content: '⬥ ⬥ ⬥'; *1/ */
+/*   display: inline-block; */
+/*   position: relative; */
+/*   top: -13px; */
+/*   padding: 0 3px; */
+/*   /1* background: #fff; *1/ */
+/*   /1* color: #8c8c8c; *1/ */
+/*   font-size: 30px; */
+/* } */
 
 /* pre, code { */
 /*   font-family: Hack, */ 
