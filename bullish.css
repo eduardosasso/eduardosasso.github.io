@@ -59,6 +59,13 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+  hr {
+    width: 100px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  border-top: 2px solid;
+    margin-top: 40px;
+  }
 
 h2, h3, h4, h5, h6 {
   font-family: var(--text_font);
@@ -352,10 +359,10 @@ ul.slider {
 }  
 
 @media screen and (min-width: 320px) and (max-width: 767px){
-  /* h1 { */
-  /*   /1* margin: 0.47em 0 .47em 0; *1/ */
+  h1 {
+    margin: 0.47em 0 .47em 0;
 
-  /* } */
+  }
 
   figure img {
     width: 100%;

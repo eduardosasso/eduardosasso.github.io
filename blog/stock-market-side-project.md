@@ -1,5 +1,4 @@
 # Turning my obsession with the stock market into a side project
-# ⸻
 **TL;DR** - Decided to build an automated email newsletter to track the stock market and show pre-market data and historical performance of S&P 500, Nasdaq, and Dow Jones to help with my investments.
 
 The other day I read this [tweet](https://twitter.com/jasonfried/status/1225455247264550917?s=20) from Jason Fried, the founder of [Basecamp](https://basecamp.com), saying that they are working on a new email app called [Hey](Hey.com), and that got me thinking.
