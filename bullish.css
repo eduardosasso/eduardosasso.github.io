@@ -250,7 +250,7 @@ blockquote {padding: 5px 10px;margin: 0 0 0px;/* font-size: 17.5px; */border-lef
 }
 
 ul {
-    list-style: none;
+    /* list-style: none; */
     /* padding-inline-start: 10px; */
 }
 
@@ -259,10 +259,10 @@ li {
 }
 
 ul li::before {
-  content: "■";
-  color: var(--accent_color);
-  display: inline-block;
-  width: 1em;
+  /* content: "■"; */
+  /* color: var(--accent_color); */
+  /* display: inline-block; */
+  /* width: 1em; */
   /* margin-left: -1em; */
   }
 
