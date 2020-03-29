@@ -250,20 +250,23 @@ blockquote {padding: 5px 10px;margin: 0 0 0px;/* font-size: 17.5px; */border-lef
 }
 
 ul {
-    /* list-style: none; */
+    list-style: none;
+    padding-left: 2em !important;
     /* padding-inline-start: 10px; */
 }
 
-li {
+ul li {
+  /* list-style-type: disc; */
+    list-style-position: inside;
   /* margin-bottom: 15px; */
 }
 
 ul li::before {
-  /* content: "■"; */
-  /* color: var(--accent_color); */
-  /* display: inline-block; */
-  /* width: 1em; */
-  /* margin-left: -1em; */
+  content: "•";
+  color: var(--accent_color);
+  display: inline-block;
+  width: 0.8em;
+  margin-left: -0.8em;
   }
 
 ol {
@@ -273,6 +276,8 @@ ol {
 }
 ol li {
   counter-increment: my-awesome-counter;
+    padding-left: 1em !important;
+  text-indent: -1em;
 }
 
 p, li {
