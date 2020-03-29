@@ -22,13 +22,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css">
 
     <style>:root {
-  --background_color: #f6eedf;
+  --background_color: #fcf8e8;
   --page_align: 0 auto;
-  --text_font: 'Playfair Display', serif;
-  --text_color: #232020;
-  --text_size: 22px;
-  --heading_font: 'Playfair Display', serif;
-  --heading_color: #232020;
+  --text_font: 'Rubik', sans-serif;
+  --text_color: #393e46;
+  --text_size: 20px;
+  --heading_font: 'Libre Baskerville', serif;
+  --heading_color: #222831;
   --accent_color: rgba(35, 32, 32, 0.8);
   --link_color: #ff7315;
 }
@@ -37,7 +37,7 @@
     
     <link rel="stylesheet" href="/bullish.css">
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700|Merriweather|Lato|Libre+Baskerville|Open+Sans|Rubik&display=swap">
 
     
 
@@ -46,7 +46,7 @@
 
   <body id="classic">
     <section>
-      <h1>Turning my obsession with the stock market into a side project</h1>
+      <h1>Turning my obsession in the stock market into a side project</h1>
       <hr>
 <p><strong>TL;DR</strong> - Decided to build an automated email newsletter to track the stock market and show pre-market data and historical performance of S&amp;P 500, Nasdaq, and Dow Jones to help with my investments.</p>
 <p>The other day I read this <a href="https://twitter.com/jasonfried/status/1225455247264550917?s=20">tweet</a> from Jason Fried, the founder of <a href="https://basecamp.com">Basecamp</a>, saying that they are working on a new email app called <a href="Hey.com">Hey</a>, and that got me thinking.</p>
@@ -111,7 +111,7 @@
 <p>If there’s one cool thing about tech nowadays is that pretty much everyone offers a free version of something. You can play with any cloud provider and use it gratis forever as long you are within their free tier. You can publish a site on GitHub for free, including SSL, also free; and a bunch of other stuff. It’s awesome!</p>
 <p>Anyway, back to the project, after I hooked everything together and spent an awful lot of time designing the email in Sendgrid plus a couple more days writing trash code to test things out and then rewriting it again the proper way, I’ve finally got to a working version that was up to my standards.</p>
 <p>The last thing to do was to decide how to schedule the code to run, prepare, and trigger Sendgrid to send emails every morning.  My first choice was to go <a href="https://en.wikipedia.org/wiki/Serverless_computing">serverless</a> with <a href="https://aws.amazon.com/lambda/">Lambda</a> that would fit nicely and wouldn’t cost a dime, but then I realized I have a <a href="https://www.raspberrypi.org/">Raspberry Pi</a> laying around, so why not use that instead?</p>
-<p>So I’ve set up the Raspberry Pi to run a <a href="https://en.wikipedia.org/wiki/Cron">Cron</a> job every day around 9:00 AM eastern time, which is 30 minutes before the market opens and I’ve also used <a href="https://cronhub.io">https://cronhub.io</a> to monitor the job and alert me if it doesn’t run, and that was it. A little over a week’s worth of work and that nice runner’s high kind of feeling of getting another project across the finish line.</p>
+<p>So I’ve set up the Raspberry Pi to run a <a href="https://en.wikipedia.org/wiki/Cron">Cron</a> job every day around 9:00 AM eastern time, which is 30 minutes before the market opens and I’ve also used a nifty little app called <a href="https://cronhub.io">Cronhub</a> to monitor the job and alert me if it doesn’t run, and that was it. A little over a week’s worth of work and that nice runner’s high kind of feeling of getting another project across the finish line.</p>
 <p><figure>
   <img src="/images/screenshot.png" alt="This is how the email looks like">
   <figcaption>This is how the email looks like</figcaption>
