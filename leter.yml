@@ -88,4 +88,15 @@ custom:
         text_font: "'Playfair Display', serif"
         text_size: "22px"
       date_format:
-
+    working-in-silicon-valley:
+      theme:
+        name: classic
+        background_color: "#2b2b28"
+        heading_color: "#08ffc8"
+        text_color: "#e4f2f0"
+        heading_font: "'Press Start 2P', cursive"
+        text_font: "'Ubuntu', sans-serif"
+        text_size: "18px"
+        link_color: "#08ffc8"
+        # accent_color: "#08ffc8"
+        font_url: "https://fonts.googleapis.com/css?family=Ubuntu|Press+Start+2P&display=swap" 
