@@ -29,7 +29,7 @@ Our little pet project got some traction, so we applied to [Y Combinator](https:
 
 After the article came out, we got VC's pitching in, a few doors opened, and that's how I got my foot in Silicon Valley.
 
-The early days working for Gogobot were though, the team was strong with engineers from Google, MySpace, Stanford. Everyone was friendly but also competitive; the pressure was on all the time. I was learning and giving my best, plus juggling with a new life in a new country and trying to figure everything out as I went.
+The early days working for Gogobot were tough, the team was strong with engineers from Google, MySpace, Stanford. Everyone was friendly but also competitive; the pressure was on all the time. I was learning and giving my best, plus juggling with a new life in a new country and trying to figure everything out as I went.
 
 When we moved to our first apartment, a one-bedroom in San Bruno, we didn't have a single piece of furniture except for two plates, some utensils, and an air mattress for over a month, talk about being frugal!
 
