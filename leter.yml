@@ -42,7 +42,7 @@ date_format: "%b. %d, %Y"
 # UA-XXXXX-X with your web property ID
 google_analytics: "UA-148146327-1"
 
-css_url: /leter.css
+css_url: /shed.css
 
 
 custom:
@@ -77,6 +77,18 @@ custom:
       :date_format: "%^b %d · %Y"
     consistency:
       theme: classic
+    how-i-built-a-wfh-shed:
+      theme:
+        name: classic
+        background_color: '#ececec'
+        text_color: '#393e46'
+        heading_color: '#393e46'
+        link_color: '#d4d7dd'
+        heading_font: "'Libre Baskerville', serif"
+        text_font: "'Roboto', sans-serif"
+        # heading_font: "'Lato', sans-serif"
+        font_url: 'https://fonts.googleapis.com/css?family=Roboto|Libre+Baskerville:700&display=swap'
+        text_size: "18.5px"
     turning-my-obsession-with-the-stock-market-into-a-side-project:
       theme: 
         name: classic      
