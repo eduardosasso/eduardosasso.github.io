@@ -391,6 +391,10 @@ ul.slider {
     margin-top: 35px;
   }
 
+  strong:first-of-type {
+    font-size:20px;
+  }
+
 }
 
 
