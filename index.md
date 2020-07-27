@@ -6,7 +6,7 @@ I'm based in [Santa Cruz](https://en.wikipedia.org/wiki/Santa_Cruz,_California),
 
 In 2011, I moved to the U.S. to join Trip.com (formerly Gogobot), which was [acquired](https://techcrunch.com/2017/11/01/ctrip-group-snaps-up-travel-search-startup-trip-com/) by [Skyscanner](https://www.skyscanner.net/) in 2017.
 
-I'm into building things, mostly software products, and lately, I've been dabbling into woodworking just for fun.
+I'm into building things, mostly software products, and lately, I've been dabbling into woodworking and moonlighting on [Bullish▲](https://bullish.email) Stock Market in my free time.
 
 As an [engineer](/resume), I'm a generalist and agnostic to languages and technology, but I enjoy writing [Ruby](https://www.ruby-lang.org/en/) code quite a bit.
 
