@@ -106,8 +106,9 @@ figure img {
 
 figcaption {
   font-size: small;
-  color: var(--accent_color);
-  margin-top:10px;  
+  /* color: var(--accent_color); */
+  margin-top:10px;
+  /* color: #FFF; */
 }
 
 h1 {
@@ -226,6 +227,7 @@ a {
   /* border-bottom-color: var(--heading-color); */
   /* display: inline-block; */
   line-height: 1.2em;
+  font-weight: bold;
 }
 
 a:hover {
@@ -252,7 +254,7 @@ blockquote {padding: 5px 10px;margin: 0 0 0px;/* font-size: 17.5px; */border-lef
 ul {
     list-style: none;
     padding-left: 2em !important;
-    /* padding-inline-start: 10px; */
+    padding-inline-start: 10px;
 }
 
 ul li {
@@ -272,7 +274,7 @@ ul li::before {
 ol {
   list-style: none;
   counter-reset: my-awesome-counter;
-  /* padding-inline-start: 10px; */
+  padding-inline-start: 10px;
 }
 ol li {
   counter-increment: my-awesome-counter;
@@ -282,6 +284,7 @@ ol li {
 
 p, li {
   line-height: 1.58;
+  /* font-weight: 500; */
 }
 
 ol li p {
@@ -335,9 +338,24 @@ ol li::before {
   text-align: right;
 }
 
+.logo {
+  margin-top: 50px;
+  text-align:center;
+}
+
+.logo img {
+  width: 60px;
+  height: 60px;
+}
+
+.logo a {
+  text-decoration:none;
+  border: none;
+}
+
 
 .slider li {
-  margin: auto;
+  /* margin: auto; */
 }
 
 ul.slider {
@@ -346,7 +364,14 @@ ul.slider {
   /* width: 100vw; */
   /* position: relative; */
   /* left: 0; */
+  background: #1B262C;
+  padding-left: 0px !important;
 }
+
+.about li {
+  padding-bottom: 10px;
+}
+
 @media screen and (min-width: 768px) {
   section {
     margin: var(--page_align);
