@@ -1,0 +1,114 @@
+# banana - An Yellow based theme
+# chalk
+# love
+# default
+# neon
+# purple
+# bungee
+# crest
+# expo
+# classic - Dark font on white background
+# bigsur
+# libre
+# dark
+theme:
+  name: bungee
+  background_color: "#232323"
+  # text_font: "'Open Sans', sans-serif"
+  # text_color: "#ffffff"
+  # heading_font: "'Corben', cursive"
+  # heading_color: "#ffffff"
+  heading_color: "#e2fd36"
+  accent_color: "#e2fd36"
+  link_color: "#e2fd36"
+  page_align: left
+
+# options
+# %Y - year with century (2020)
+# %y - year last two digits (20)
+# %m - month of the year, zero-padded (01..12)
+# %B - the full month name  (January)
+#   %^B - uppercased (JANUARY)
+# %b - the abbreviated month name (Jan)
+#   %^b - uppercased (JAN)
+# %d - day of the month, zero-padded (01..31)
+# %-d - no-padded (1..31)
+# %A - The full weekday name (Sunday)
+#   %^A - uppercased (SUNDAY)
+# %a - The abbreviated name (Sun)
+#   %^a - uppercased (SUN)
+date_format: "%b. %d, %Y"
+
+# UA-XXXXX-X with your web property ID
+google_analytics: "UA-148146327-1"
+
+css_url: /shed.css
+
+
+custom:
+  index:
+    title: E. Sasso ✋
+  # index:
+  #   theme: 
+  #     page_align: left
+  #     name: neon
+  #     text_color: "#f7f7f7"
+  resume:
+    title: Eduardo Sasso's resume
+    theme:
+      name: purple
+      background_color: "#eeeeee"
+      text_color: "#393e46"
+      heading_color: "#393e46"
+      accent_color: "#00adb5"
+      link_color: "#00adb5"
+    date_format:
+  drafts:
+    surfing:
+      theme: classic
+    leter:
+      code-highlighting:
+        theme: chalk
+        code:
+          theme: atom-one-light
+  blog:
+    life-is-fragile:
+      theme: crest
+      :date_format: "%^b %d · %Y"
+    consistency:
+      theme: classic
+    how-i-built-a-wfh-shed:
+      theme:
+        name: classic
+        background_color: '#ececec'
+        text_color: '#393e46'
+        heading_color: '#393e46'
+        link_color: '#d4d7dd'
+        heading_font: "'Libre Baskerville', serif"
+        text_font: "'Roboto', sans-serif"
+        # heading_font: "'Lato', sans-serif"
+        font_url: 'https://fonts.googleapis.com/css?family=Roboto|Libre+Baskerville:700&display=swap'
+        text_size: "18.5px"
+    turning-my-obsession-with-the-stock-market-into-a-side-project:
+      theme: 
+        name: classic      
+        background_color: '#f6eedf'
+        text_color: "#232020"
+        heading_color: "#232020"
+        link_color: "#ff7315"
+        heading_font: "'Playfair Display', serif"
+        text_font: "'Playfair Display', serif"
+        text_size: "22px"
+      date_format:
+    working-in-silicon-valley:
+      theme:
+        name: classic
+        background_color: "#2b2b28"
+        heading_color: "#08ffc8"
+        text_color: "#e4f2f0"
+        heading_font: "'Press Start 2P', cursive"
+        text_font: "'Ubuntu', sans-serif"
+        text_size: "18px"
+        link_color: "#08ffc8"
+        # accent_color: "#08ffc8"
+        font_url: "https://fonts.googleapis.com/css?family=Ubuntu|Press+Start+2P&display=swap" 

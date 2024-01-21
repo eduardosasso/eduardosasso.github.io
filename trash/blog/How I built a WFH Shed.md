@@ -1,0 +1,132 @@
+# How I built a WFH Shed
+**TL;DR - Designed and built my dream office in my backyard, spent a little over three months working on it, learning tons, making lots of mistakes, going way over-budget, and having a hell of a fun time.**
+
+When we moved to our two-bedroom house in Santa Cruz, about five years ago, the house checked all the boxes, except one. It was close to the ocean, walking distance to Trader Joe's, Target and Chipotle. But it didn't have an extra room for an office.
+
+With a toddler roaming around, I had to work with my noise-canceling headphones most of the time. Since that was far from ideal, I had to find a place where I could get some deep work done.
+
+My first attempt was to put a desk in the corner wall in the master bedroom. That worked for a while, but the space was small, noisy, and I would get interrupted every time my wife needed something. It was doable but not ideal.
+
+On my second try, I moved to the garage. I built a 5x7 cubicle out of plywood, including a desk. This arrangement was pretty close to ideal. I had enough privacy and space, but it was always dusty and either too cold or too hot because of the lack of insulation.
+
+![Garage office](/images/shed/garage.jpeg)
+
+
+## Third time is the charm
+One idea that I've considered was to buy one of those prefab sheds like [Tuff Shed](https://www.tuffshed.com/), but they are not that pretty and are bare-bones inside, you still need to do some work if you want to transform that into an office plus they are expensive, so that's out.
+
+I've entertained the idea of building a shed many times, but to be honest, it always felt too overwhelming to commit to a big project like that. Especially with my beginner level woodworking skills and zero construction knowledge.
+
+Out of curiosity, I started watching some [videos on YouTube](https://youtu.be/Xh_QMJALct4) about building sheds, tiny houses, framing, roofing, and electrical. The idea was to get a feel for the amount of work, time, and how hard it would be if I decided to give it a shot.
+
+Then one day early November on a whim, I got a tape measure and went to the back of the house and started measuring stuff to see if I  had space to even think about building anything. My backyard is long, but only about 7ft wide, it's tight but manageable.
+
+I used painters tape to make some rough markings on the ground to visualize the space. The best layout I could find was a 6x6 sq foot box facing south. I left that in the back burner for a few days and bounced some plans with my wife. I also browsed Pinterest for inspiration, and after looking at some cool offices with concrete floors, exposed wood beams, plywood mixed with wallpaper, and modern artwork, I got excited about all the possibilities.
+
+## OK! Let's do this
+
+One of the first things I did was to get [this book on Amazon](https://www.amazon.com/gp/product/1786272830/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) to sort of serve as a guideline.
+
+The second step was to loosely write down all the materials I thought I was going to need and add them to my shopping cart on HomeDepot.com to get a ballpark cost for the project.
+
+The third step was to sketch how the shed would look. Structurally it came down to essentially two decisions: door/windows and roof style. I wanted clean lines and a lot of natural light, so I opted for a sliding patio door to serve both purposes. The roof style I wanted, and here is where things get interesting, was the harder one to achieve. There are several styles of roofs out there. The most common being what's called a [Gable Roof](https://en.wikipedia.org/wiki/Gable_roof), which is the triangle roof you see in most sheds. But I was looking for something modern, so I landed on what's called ["lean-to shed"](https://en.wikipedia.org/wiki/Lean-to), which quoting from Wikipedia is "a sloping roof and three walls that abut the wall of another structure". For the finishing, I was still not sure at this point, but I was leaning towards lap siding for exterior walls and plywood panels for the interior.
+
+I kept things low tech, old school style. Freehand design, scribbles, and measurements were adapted as needed on the go akin to "fixing things on the fly in a production server" kind of way. 😂
+
+I started by building the base of the shed, which was composed of three 6ft long pressure treated 6x6 lumber. For the floor frame, I used regular 2x4's with studs spaced out every 16 inches and foam board insulation in between them to provide resistance to moisture and to keep it cozy in the winter.
+
+![Laying the foundation](/images/shed/floor.jpeg)
+![Floor insulation](/images/shed/foam.jpeg)
+![Base floor](/images/shed/base.jpeg)
+
+
+All the sheathing on walls, floor, and the roof used [19/32 in x 4 ft x 8 ft OSB panels](https://www.homedepot.com/p/Common-19-32-in-x-4-ft-x-8-ft-Actual-0-578-in-x-47-75-in-x-95-75-in-Oriented-Strand-Board-8107410000000000/309026359), which are easy enough for a single person to carry but are not tick enough to be used as base floor, and that was mistake number one!
+
+Mistake number two was to use nails instead of screws to get the base floor attached to the frame. That made it almost impossible to replace the panel for a ticker one, so I had to hack it and add another OSB panel on top to make it thicker. Not elegant, but that solved it.
+
+
+**Pro tip** - Use screws for everything; if you mess up, remove the screws and redo it; with nails, it's a lot harder to do that.
+
+Season wise I chose the worst time to start a project. It was the end of the fall; the rainy season was coming, and it was cold. But I went forward anyway, and that set me back several weeks where I had to cover everything with a tarp, wood would get wet, and it was just a mess.
+
+Framing the walls was the easiest part. Once I could visualize how the shed was supposed to look, it came down to pure and simple hard work to put it together.
+
+![Framing](/images/shed/frames.jpeg)
+
+
+I've decided to go with studs 24 inches apart instead of 16 from the center, which is pretty much standard for a couple of reasons, one so the frame would be lighter, thus easier to carry and two to save a few bucks. Still, that decision came back to bite me later as [batt insulation](https://www.wisegeek.com/what-is-batt-insulation.htm) is more readily available and cheaper for 16in walls than for 24.
+
+Constrained by the dimensions of the backyard and my house's roof overhang, minus the height of the base of the shed, these are the measurements I came up for the walls:
+* Right side wall 86 in
+* Left side wall facing the house 82in
+* Back rake wall from 86 down to 82in
+* Front wall same as back plus door
+* Sliding door opening 72in. x 80in
+
+My focus was to get all the walls done first before putting it up, primarily because the weather was pretty bad during this period. Hence, my reasoning was to get it all done then attach them to the base in one go so I could use a tarp as a roof to protect from the rain.
+
+One challenge worth noting is to make sure everything is [square](https://www.youtube.com/watch?v=IQGuqJ9N48E), leveled, and plumb. That will save you a lot of headaches in the future, trying to line things up like adding doors or windows. That part took me a hell lot of time to get it right, and it still slightly off, but not too bad.
+
+Getting the walls up and the roof frame was pretty exciting because you could see the shed taking form. Before that, it was just a bunch of walls lying around, and nobody besides me could understand how they would fit together. So it was nice to finish with this part of the project. It gave me a good boost to keep it going.
+
+![Walls up!](/images/shed/walls.jpeg)
+![Roof](/images/shed/roof.jpeg)
+![Sheating](/images/shed/mess.jpeg)
+
+Once the frame and roof were up, the next phase was to get sheathing installed. Once again, I was using 19/32 in x 4 ft x 8 OSB panels. Each wall used roughly two sheets of OSB, except the front wall because of the sliding door, so including the roof, the total number of panels came to be 8 for a total cost of ~ 80 dollars.
+
+After making sure the walls were square and plumb, and the floor leveled, next on the list was to add a vapor barrier around the shed commonly-known as [Tyvek HomeWrap](https://www.dupont.com/products/tyvek-homewrap-superior-house-wrap.html) to prevent humidity from getting into the insulation and wall; if you pay attention, you can see it being used in most constructions here in California and probably around the country. Trying to save a few bucks, I went for the cheaper option.  The one I used was about U$29 - as opposed to U$66 for Tyvek. I bet there's probably some extra benefit in going with Tyvek, but I don't think it will make a noticeable difference in my tiny 6x6 shed.
+
+Now, installing the house wrap wasn't the simplest thing to do alone, so I had to ask my wife to help me out after struggling with it for a couple of hours. And the two of us knocked it down in a half afternoon. The wrapping was not super complicated. The hardest part is to make sure you don't get saggy areas and that everything lines up as you keep going up the walls. I think there's no wrong here, and you can pretty much do whatever. It's just that being a little anal and OCD, I wanted mine to look professional just like the ones I see in new constructions. 
+
+![House wrapping with my associate](/images/shed/hug.jpeg)
+
+Things are moving, got the house wrap done, and it was time to prep for getting the sliding door in. The only step I did was to install a sealing tape around the frame then again I double checked my measurements to make sure the door would fit. I removed one of the doors so it would be lighter and easier to carry. For this step, once again, I enlisted my wife to help me out. We first did a tryout, putting the door in to make sure it would fit, then we took it out. I added a caulking sealant all around the frame to make sure water won't get in, and we put the door back in again using shims to level it and gap filler foam to seal everything.
+
+With the door frame inserted and secured, the only thing left was to put the glass door I removed back on. And that alone took us a solid two hours. We struggled quite a lot until we realized there was a little notch that we have to move aside for the door to slide into place. It was just like coding when sometimes you're fighting with something just to figure out later the solution was something ridiculous right in front of you. The door instructions said a professional could get installed in 30 min, a first timer in 1:30h, but for a noob like me, it took close to four hours lol, but I got it done. Onward.
+
+Before moving on to work on the roof, I've installed 1x4in corner trim boards around the shed, and also around the roof with 1x6in board.  Pro Youtube tip, for corner trims, put the corners together first using finishing nails as opposed to each one individually on the walls this way is much easier to line things up and make everything plumb.
+
+![Door prep](/images/shed/door_prep.jpeg)
+![Door installed](/images/shed/door.jpeg)
+
+Roofing was up next. There are many options to choose from here (insert some examples). Again I decided to go asphalt shingles because I thought it was easier to transport from HomeDepot to my house and to install and carry to the roof, bonus points for matching my house's roof as well.
+
+On a separate note, you've got to be mindful of the materials you chose and how you're going to get it to your home. If you have a big truck where you can just throw stuff in the back, that's not much of an issue. But if you have a family car or a Toyota 4Runner like me, securing big items to the roof of the car is time-consuming and pretty tiring. So besides sheathing and plywood - which comes in standard 4x8ft size - all my other decisions about materials were mostly based on size and on how easy it was to transport it home. Keep in mind that there are endless HomeDepot runs in the process, so being agile is critical.
+
+Back to the roof, I've installed what is called a [drip edge](https://www.homedepot.com/p/Construction-Metals-1-1-2-in-x-1-1-2-in-x-10-ft-Galvanized-Steel-Drip-Edge-Flashing-in-White-RE15WH/202093168) to prevent rain water to go from the roof down to the walls and avoid infiltration. And I used tin snips to cut them to length; it seemed like a simple process. Still, it was a little tricky to get the corners right and also the seams never looked good enough the way I wanted. Anyway, after a few trials and errors, I decided to go around all top trim except the front one because the final result was too ugly for me to look at it every day. Hence, no drip edge there. And that's the beauty of this kind of project where nothing is set in stone. Especially for a small place like this where you don't need a permit, and you can pretty much do whatever the heck you want. It's your money.
+
+Following the drip edge disaster I moved on to cover the roof with felt paper to add another layer of protection against rain and infiltration, this process was more straightforward, I just had to cut a couple of pieces and attach to the roof with cap nails.
+
+The only thing left to finish roofing was to put shingles on. Shingles come in sheets, and you need to follow a pattern installing one row at a time and offset X inches on the next row. To secure the shingles, you use roofing nails, and you can find instructions in the box; I've used 7/16 galvanized steel roofing nails. The toughest part was to cut the shingles, so make sure you have a good knife and plenty of blades. It's a good work out for your arms.
+
+A couple of days after I finished the roof we got a good amount of rain. It was an excellent way to put my work to the test, and for my desperation, I soon realized that some small water ponds were forming on the shingles.  I had to go off to Google to find out that my roof pitch was not steep enough. I should have used something else instead of shingles, but to my luck, it also said that if the little ponds get dry in less than 48h, it should be fine, mine where dry just a few hours after the rain stopped plus I live in California which is dry most of the year so it should be fine.
+
+Insulating the walls and ceiling was a quick step, I went with [R13 batt insulation](https://www.homedepot.com/p/Owens-Corning-R-13-Kraft-Faced-Fiberglass-Insulation-Batt-23-in-x-93-in-E52/100320326) which was the most cost-effective, to install you line them up on the wall between the studs and you can staple them on the sides, so they stay up.
+
+![Wall insulation](/images/shed/insulation.jpeg)
+
+Siding the outside walls was next. For this one, I chose to go with what is called lap siding, again many choices here, but I thought lap siding would be the easiest. Installing them was pretty straightforward. You essentially cut the pieces to the length you need. When you install it, you leave a little gap around 3/4 of an inch. This way, the plank can expand or contract depending on the weather. Then you nail each board with an overlap. One thing to pay attention to is to use the same overlap on all sides, so you have evenly distributed planks on all walls. There's also one tool called [siding gauge](https://www.homedepot.com/p/PAC-Gecko-Siding-Gauge-for-5-16-in-Siding-1-Set-Per-Package-307202020/202530064) that was super handy and saved me a ton of time, the way it works is it attaches to the last installed plank so you can lay the new on it.
+
+![Siding](/images/shed/siding.jpeg)
+![Finished siding](/images/shed/siding_complete.jpeg)
+
+It was now time to start working inside the shed and get the plywood panels in. Here the biggest challenge was to get the seams to line up uniformly, and it is another step where being square, leveled, and plumb can make a big difference. I used [sanded plywood](https://www.homedepot.com/p/12mm-Sande-Plywood-1-2-in-Category-x-4-ft-x-8-ft-Actual-0-472-in-x-48-in-x-96-in-454532/203414055)and [finishing screws](https://www.homedepot.com/p/GRK-Fasteners-8-x-1-1-4-in-Star-Drive-Trim-Head-Finish-Trim-Screw-100-Pack-96055/204837649?MERCH=REC-_-searchViewed-_-NA-_-204837649-_-N) to attach them to the studs, another challenge was to get the top panels with the right roof slope. For that, I had to come up with my solution on how to do it. My answer was essentially measuring the highest and low points take the difference, and trace a diagonal line to cut it.
+
+It's time to power up the shed, but before that, back to YouTube to learn how to run wires and extend power from the house plus the materials I'll needed. First I had to find the most optimal way to run the wires, so I went under the house and in the attic to see if there was an easy way to do it, but the access was hard, so I ruled it out quickly, my best option was to run it alongside the exterior walls of the house in a conduit. Also, the wifi signal in the backyard wasn't the greatest. So I bought a 100ft cat6 cable on amazon and extended our Google Wifi mesh network with a wired access point. This way, I could get ultra-fast 350mb wireless speed in the shed and the whole backyard as a bonus. The way I did it was to run both wires inside a [3/4 inch PVC conduit](https://www.homedepot.com/p/JM-eagle-3-4-in-x-10-ft-PVC-Schedule-40-Conduit-67454/100129197) using [14/2 electrical wiring](https://www.homedepot.com/p/Southwire-100-ft-14-2-Solid-Romex-SIMpull-CU-NM-B-W-G-Wire-28827428/202316379) + 100ft cat6 ethernet cable. Once the wires were in the shed, it was a matter of stripping and connecting the outlets and test everything with a voltage meter. After a few hours of elbow grease fishing wires and cleaning everything up, I had power and high-speed internet in the shed! Hurray, the end is near!
+
+Time to paint! First, I started by caulking everything, sealing all the gaps, and making everything smooth. Painting is my least favorite thing to do; all the prepping you need to do beforehand is pretty dull, so for that task, my wife came to rescue me again. We pretty much got it done in a weekend using two coats of paint. We used a single gallon of flat black for the walls and side trims, and one quart of flat white in the top trims. The idea was to make just the white door stand out in a minimalist look, internally we used one coat of clear polyurethane on the plywood mostly just to protect the panels since it looks pretty cool bare as it is.
+
+![Painting](/images/shed/painting.jpeg)
+
+With the painting done, there are just a couple more things left to do. We installed the [carpet tiles](https://www.homedepot.com/p/Foss-Peel-and-Stick-First-Impressions-City-Block-Blk-Ice-24-in-x-24-in-Commercial-Carpet-Tile-15-Tiles-Case-7CDMN0915PK/206665156), which was such a great find since they come in squares like 8x8, 12x12, and are super easy to install. The tiles are peel and stick, so essentially you line them up on the floor first decide on the pattern you want to do and just follow the correct orientation and glue them on the floor, I guess it took us around 3 hours to get it installed.
+
+The last thing I built was a small deck made out of 2x6 redwood to give a finishing touch to the whole project.
+
+For the next couple days or so I spent decorating the shed, getting my Ikea desk (insert link here) moving my [Aeron chair](https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/), doing cable management, installing the monitor arm I got for Christmas, ordering some blackout shades on amazon, trying some different artworks on the wall and also just sitting down, listening to music and enjoying what I just did letting the excitement and feeling of accomplishment sink in, there's no better rush.
+
+![Final result](/images/shed/final.jpeg)
+![Interior](/images/shed/nyt.jpeg)
+
+Steve Jobs said, once said "Life can be so much broader, once you discover one simple fact, and that is that everything around you that you call 'life' was made up by people who were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you'll never be the same again."
+
