@@ -1,6 +1,13 @@
+
+  ---
+    description: I’m Eduardo Sasso, a Brazilian expat turned American working in tech in Silicon Valley. I'm based in Santa Cruz, California, living a quiet family life with my wife, daughter, and our dog Maui. In 2
+    created: 2024-01-21 17:16:56
+    updated: 2024-01-21 18:39:24
+  ---
+  
 # Hi,
 
-I’m [Eduardo Sasso](mailto:eduardo.sasso@gmail.com); a Brazilian expat turned American working in tech in Silicon Valley.
+I’m [Eduardo Sasso](mailto:eduardo.sasso@gmail.com), a Brazilian expat turned American working in tech in Silicon Valley.
 
 I'm based in [Santa Cruz](https://en.wikipedia.org/wiki/Santa_Cruz,_California), California, living a quiet family life with my wife, daughter, and our dog Maui.
 
@@ -10,13 +17,13 @@ I'm into building things, mostly software products, and lately, I've been dabbli
 
 As an [engineer](/resume), I'm a generalist and agnostic to languages and technology, but I enjoy writing [Ruby](https://www.ruby-lang.org/en/) code quite a bit.
 
-The ocean is where I find balance and tranquility, and surfing has been a big part of it for most of my life. 
+I find balance and tranquility in the ocean, and surfing has been a big part of it for most of my life. 
 
 [Rocky](https://www.imdb.com/title/tt0075148/) is my favorite movie. I really relate to the underdog story and the never-give-up attitude.
 
-I'm a morning person, coffee drinker, and banana eater, a pragmatic minimalist and occasional practitioner of [Stoicism](https://en.wikipedia.org/wiki/Stoicism).
+I'm a morning person, coffee drinker, banana eater, pragmatic minimalist, and occasional practitioner of [Stoicism](https://en.wikipedia.org/wiki/Stoicism).
 
-Every so often, I publish on my [Blog](/blog) but most likely commit on [Github](https://github.com/eduardosasso), and sometimes post on [Twitter](https://twitter.com/eduardosasso) and [Instagram](https://www.instagram.com/eduardosasso/).
+Every so often, I publish on my [Blog](/blog) but most likely commit on [Github](https://github.com/eduardosasso) and sometimes post on [Twitter](https://twitter.com/eduardosasso) and [Instagram](https://www.instagram.com/eduardosasso/).
 
 Let's [connect](mailto:eduardo.sasso@gmail.com)!
  
