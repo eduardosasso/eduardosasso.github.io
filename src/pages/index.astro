@@ -1,6 +1,7 @@
 ---
 import Prose from "../components/Prose.astro";
 import Content from "./index.md";
+import '../styles/global.css';
 ---
 
 <html lang="en">
@@ -11,8 +12,8 @@ import Content from "./index.md";
     <meta name="generator" content={Astro.generator} />
     <title>Astro</title>
   </head>
-  <body class="flex justify-center min-h-screen">
-    <div class="w-full max-w-2xl">
+  <body class="bear-gotham flex justify-center min-h-screen mt-12 h1">
+    <div class="w-full max-w-xl">
       <Prose>
         <Content />
       </Prose>
