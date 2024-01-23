@@ -1,16 +1,21 @@
 ---
-import Content from './index.md';
+import Prose from "../components/Prose.astro";
+import Content from "./index.md";
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<Content />
-	</body>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Astro</title>
+  </head>
+  <body class="flex justify-center min-h-screen">
+    <div class="w-full max-w-2xl">
+      <Prose>
+        <Content />
+      </Prose>
+    </div>
+  </body>
 </html>
