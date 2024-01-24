@@ -1,6 +1,8 @@
 ---
 import Prose from "../components/Prose.astro";
-import '../styles/global.css';
+import "../styles/global.css";
+import { Image } from "astro:assets";
+import avatar from "../images/avatar_round.png";
 const { pageTitle } = Astro.props;
 ---
 
@@ -12,8 +14,10 @@ const { pageTitle } = Astro.props;
     <meta name="generator" content={Astro.generator} />
     <title>{pageTitle}</title>
   </head>
-  <body class="bear-gotham flex justify-center min-h-screen mt-12 h1">
+  <body
+    class="bear-gotham flex justify-center mt-12">
     <div class="w-full max-w-xl">
+      <Image src={avatar} alt="Profile picture" class="w-16 h-16 mb-12 mx-auto rounded-full" />
       <Prose>
         <slot />
       </Prose>

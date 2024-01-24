@@ -1,9 +1,8 @@
 ---
 pageTitle: Eduardo Sasso
 ---
-# Hi,
 
-I’m [Eduardo Sasso](mailto:eduardo.sasso@gmail.com), a Brazilian expat turned American working in tech in Silicon Valley.
+Hi, I’m [Eduardo Sasso](mailto:eduardo.sasso@gmail.com), a Brazilian expat turned American working in tech in Silicon Valley.
 
 I'm based in [Santa Cruz](https://en.wikipedia.org/wiki/Santa_Cruz,_California), California, living a quiet family life with my wife, daughter, and our dog Maui.
 
