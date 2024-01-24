@@ -1,22 +1,8 @@
 ---
-import Prose from "../components/Prose.astro";
-import Content from "./home.md";
-import '../styles/global.css';
+import BaseLayout from "../layouts/Base.astro";
+import * as content from "./home.md";
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Astro</title>
-  </head>
-  <body class="bear-gotham flex justify-center min-h-screen mt-12 h1">
-    <div class="w-full max-w-xl">
-      <Prose>
-        <Content />
-      </Prose>
-    </div>
-  </body>
-</html>
+<BaseLayout pageTitle={content.frontmatter.pageTitle}>
+  <content.Content/>
+</BaseLayout>

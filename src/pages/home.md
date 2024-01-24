@@ -1,3 +1,6 @@
+---
+pageTitle: Eduardo Sasso
+---
 # Hi,
 
 I’m [Eduardo Sasso](mailto:eduardo.sasso@gmail.com), a Brazilian expat turned American working in tech in Silicon Valley.
