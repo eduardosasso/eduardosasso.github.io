@@ -12,39 +12,30 @@ export default {
           "source-sans-pro",
           "sans-serif",
         ],
-        // ... include other font families if needed
       },
       colors: {
-        // Light Theme Colors
-        bearGotham: {
-          primary: "#6aa9b9", // Dark text
-          secondary: "#2db98c", // Light grey text
-          background: "#10151c",
-          accent: "#e47b57", // Accent color similar to Bear's yellow
-          code: "#202129",
-          // Add other colors as needed
-        },
-        // Dark Theme Colors
-        bearDark: {
-          primary: "#FFFFFF", // White text
-          secondary: "#A4A4A4", // Light grey text
-          background: "#1C1B1B", // Dark background
-          accent: "#FFD580", // Accent color similar to Bear's yellow
-          // Add other colors as needed
-        },
+        primary: "var(--primary)",
+        secondary: "var(--secondary)",
+        background: "var(--background)",
+        accent: "var(--accent)",
+        bullets: "var(--bullets)",
+        code: "var(--code)",
       },
       typography: (theme) => ({
         DEFAULT: {
           css: {
+            "--tw-prose-body": theme("colors.primary"),
+            "--tw-prose-headings": theme("colors.secondary"),
+            "--tw-prose-links": theme("colors.accent"),
+            "--tw-prose-bold": theme("colors.primary"),
+            "--tw-prose-code": theme("colors.primary"),
+            "--tw-prose-bullets": theme("colors.bullets"),
+            "--tw-prose-counters": theme("colors.bullets"),
             "code::before": { content: "" },
             "code::after": { content: "" },
-            code: {
-              color: { color: "unset" }
-            },
           },
         },
       }),
-      // Add other theme customizations like fontFamily if needed
     },
   },
   plugins: [require("@tailwindcss/typography")],

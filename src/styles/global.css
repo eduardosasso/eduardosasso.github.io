@@ -1,13 +1,29 @@
-/* /src/styles/global.css */
-
-.bear-gotham {
-  @apply bg-bearGotham-background 
-  prose-p:text-bearGotham-primary 
-  prose-headings:text-bearGotham-secondary 
-  prose-a:text-bearGotham-accent
-  prose-strong:text-bearGotham-primary
-  prose-code:bg-bearGotham-code
-  prose-code:p-1
-  prose-code:font-normal
-  marker:text-bearGotham-secondary
+.theme-gotham {
+  --primary: #6aa9b9;
+  --secondary: #2db98c;
+  --background: #10151c;
+  --accent: #e47b57;
+  --bullets: #2db98c;
+  --code: #202129;
 }
+
+.theme-rosepine {
+  --primary: #dfdff4;
+  --secondary: #c4a7e6;
+  --background: #222137;
+  --accent: #ec6f92;
+  --bullets: #ec6f92;
+  --code: #35304f;
+}
+
+body {
+  @apply bg-background
+  prose-code:p-1
+  prose-code:bg-code
+}
+
+code {
+  font-weight: normal !important;
+}
+
+

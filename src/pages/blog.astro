@@ -1,0 +1,28 @@
+---
+import BaseLayout from "../layouts/Base.astro";
+import dayjs from "dayjs";
+import utc from "dayjs/plugin/utc";
+
+dayjs.extend(utc);
+const allPosts = await Astro.glob("../pages/posts/*.md");
+const pageTitle = "My Astro Learning Blog";
+
+const getLastModified = (pubDate) => {
+  return dayjs.utc(pubDate).format("DD MMM YYYY");
+};
+
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <h1>Writing</h1>
+  <ul class="pl-0">
+    {
+      allPosts.map((post) => (
+        <li class="list-none">
+          <span class="mr-2 text-sm">{getLastModified(post.frontmatter.pubDate)}</span>
+          <a href={post.url} class="text-lg">{post.frontmatter.title}</a>
+        </li>
+      ))
+    }
+  </ul>
+</BaseLayout>
