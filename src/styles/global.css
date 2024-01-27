@@ -1,6 +1,13 @@
 /* /src/styles/global.css */
 
 .bear-gotham {
-  @apply bg-bearGotham-background prose-p:text-bearGotham-primary prose-headings:text-bearGotham-secondary prose-a:text-bearGotham-accent;
-  /* Add other styles as needed */
+  @apply bg-bearGotham-background 
+  prose-p:text-bearGotham-primary 
+  prose-headings:text-bearGotham-secondary 
+  prose-a:text-bearGotham-accent
+  prose-strong:text-bearGotham-primary
+  prose-code:bg-bearGotham-code
+  prose-code:p-1
+  prose-code:font-normal
+  marker:text-bearGotham-secondary
 }

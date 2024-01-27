@@ -21,6 +21,7 @@ export default {
           secondary: "#2db98c", // Light grey text
           background: "#10151c",
           accent: "#e47b57", // Accent color similar to Bear's yellow
+          code: "#202129",
           // Add other colors as needed
         },
         // Dark Theme Colors
@@ -32,6 +33,17 @@ export default {
           // Add other colors as needed
         },
       },
+      typography: (theme) => ({
+        DEFAULT: {
+          css: {
+            "code::before": { content: "" },
+            "code::after": { content: "" },
+            code: {
+              color: { color: "unset" }
+            },
+          },
+        },
+      }),
       // Add other theme customizations like fontFamily if needed
     },
   },
