@@ -1,10 +1,11 @@
 ---
+import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/Base.astro";
 import dayjs from "dayjs";
 import utc from "dayjs/plugin/utc";
 
 dayjs.extend(utc);
-const allPosts = await Astro.glob("../pages/posts/*.md");
+const allPosts = await getCollection("posts");
 const pageTitle = "My Astro Learning Blog";
 
 const getLastModified = (pubDate) => {
@@ -19,8 +20,8 @@ const getLastModified = (pubDate) => {
     {
       allPosts.map((post) => (
         <li class="list-none">
-          <span class="mr-2 text-sm">{getLastModified(post.frontmatter.pubDate)}</span>
-          <a href={post.url} class="text-lg">{post.frontmatter.title}</a>
+          <span class="mr-2 text-sm">{getLastModified(post.data.updated)}</span>
+          <a href={post.slug} class="text-lg">{post.data.title}</a>
         </li>
       ))
     }

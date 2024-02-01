@@ -1,9 +1,9 @@
-
-  ---
-    description: A couple of months back, during this crazy world pandemic, I had an idea for a Stock Market email newsletter. Nothing novel, the initial premise was to build a fully automated hands-off email with so
-    created: 2020-08-06 02:57:25
-    updated: 2024-01-21 18:37:59
-  ---
+---
+title: From Stock Market email side project to micro SaaS
+description: A couple of months back, during this crazy world pandemic, I had an idea for a Stock Market email newsletter. 
+created: 2020-08-06 02:57:25
+updated: 2024-01-21 18:37:59
+---
   
 # From Stock Market email side project to micro SaaS
 A couple of months back, during this crazy world pandemic, I had an idea for a [Stock Market email newsletter](https://bullish.email). 
