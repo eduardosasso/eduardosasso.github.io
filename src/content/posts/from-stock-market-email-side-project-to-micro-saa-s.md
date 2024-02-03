@@ -1,10 +1,9 @@
 ---
-title: From Stock Market email side project to micro SaaS
-description: A couple of months back, during this crazy world pandemic, I had an idea for a Stock Market email newsletter. 
-created: 2020-08-06 02:57:25
-updated: 2024-01-21 18:37:59
+  title: From Stock Market email side project to micro SaaS
+  description: A couple of months back, during this crazy world pandemic, I had an idea for a Stock Market email newsletter. Nothing novel, the initial premise was to build a fully automated hands-off email with so
+  created: 2020-08-06 02:57:25
+  updated: 2024-02-01 05:38:29
 ---
-  
 # From Stock Market email side project to micro SaaS
 A couple of months back, during this crazy world pandemic, I had an idea for a [Stock Market email newsletter](https://bullish.email). 
 
@@ -12,9 +11,9 @@ Nothing novel, the initial premise was to build a fully automated hands-off emai
 
 Doing rounds trying to promote my little pet project, I posted it on [Hacker News](https://news.ycombinator.com/item?id=22870667) and received great feedback, and one thousand people were convinced enough to subscribe.
 
-That initial traction, combined with all the positive comments and suggestions, was the signal I needed to upgrade from side hustle to tiny micro SaaS indie hacker.
+That initial traction, combined with all the positive comments and suggestions, was the signal to upgrade from side hustle to tiny micro SaaS indie hacker.
 
-I planned to offer a premium version of the newsletter with a lot more data points and insights and charge money for it. Plain and simple.
+I planned to offer a premium version of the newsletter with more data points and insights and charge money for it. Plain and simple.
 
 But to do that, I had to do a good amount of code refactoring, hookup Stripe, update the website, make all the plumbing work, and promote it.
 
