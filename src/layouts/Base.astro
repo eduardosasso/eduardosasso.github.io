@@ -13,7 +13,7 @@ const { pageTitle } = Astro.props;
     <meta name="generator" content={Astro.generator} />
     <title>{pageTitle}</title>
   </head>
-  <body class="theme-gotham flex flex-col min-h-screen">
+  <body class="theme-rosepine flex flex-col min-h-screen">
     <main class="flex-1 mx-auto mt-12 mb-12 ">
       <Image
         src={avatar}
@@ -24,6 +24,8 @@ const { pageTitle } = Astro.props;
         <slot />
       </Prose>
     </main>
-    <footer class="text-center text-sm text-secondary font-bold m-12">⎣⎤</footer>
+    <footer class="text-center text-sm text-secondary font-bold m-12">
+      <a href="https://leter.co" class="hover:text-accent">⎣⎤</a>
+    </footer>
   </body>
 </html>
