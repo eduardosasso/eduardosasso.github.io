@@ -6,7 +6,7 @@ import utc from "dayjs/plugin/utc";
 
 dayjs.extend(utc);
 const allPosts = await getCollection("posts");
-const pageTitle = "My Astro Learning Blog";
+const pageTitle = "Writing • Eduardo Sasso";
 
 const getLastModified = (pubDate) => {
   return dayjs.utc(pubDate).format("DD MMM YYYY");
